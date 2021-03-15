@@ -1,0 +1,19 @@
+.banner{
+    height: 300px;
+    background-image: url(../../images/banner1.png);
+    opacity: 0.5;
+    margin-top: 3px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 100%;
+}
+.banner h1{
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 80px;
+    color: #fff;
+}
+
+
+/*Media Queries*/
+

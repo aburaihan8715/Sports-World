@@ -1,0 +1,13 @@
+.league{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px black;
+    width: 350px;
+    height: 260px;
+    margin: 20px auto;
+}
+.league img {
+    height: 100px;
+    width: 100px;
+}

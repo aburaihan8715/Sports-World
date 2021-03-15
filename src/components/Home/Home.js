@@ -16,10 +16,9 @@ const Home = () => {
 
     return (
         <div>
+          <Banner></Banner>
           <div className="container">
             <div className="row">
-                <Banner></Banner>
-
                 {
                 firstTwenty.map((league) =><League league={league}></League>)
                 }
